@@ -16,8 +16,18 @@
   justify-content: space-between;
 }
 
+.searchbar {
+  align-content: center;
+}
+
 h2 {
   align-content: center;
+}
+
+label {
+  background-color: #ffffff;
+  padding: 2px;
+  opacity: .5;
 }
 
 /* ~~~~~ Sidebar ~~~~~ */
