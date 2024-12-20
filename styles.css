@@ -1,0 +1,49 @@
+/* ~~~~~ Title Head Styles ~~~~~ */
+.title-head{
+  background-image: url(./images/title-bearings.jpeg);
+  background-size: cover;
+}
+
+.title-child {
+  margin: 10px 10px;
+  padding: 5px;
+  background-color: #ffffff;
+  opacity: .5;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  align-content: center;
+}
+
+/* ~~~~~ Sidebar ~~~~~ */
+.body {
+  display: flex;
+  justify-content: space-around;
+  height: 800px;
+  text-align: center;
+}
+
+.sidebar {
+  width: 15%;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.content {
+  width: 85%;
+}
+
+.content-body {
+  background-image: url(./images/content-body-image.jpeg);
+  background-size: 50%;
+  height: 100%;
+  width: 100%;
+
+}
